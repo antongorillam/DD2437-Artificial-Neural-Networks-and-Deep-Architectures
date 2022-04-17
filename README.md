@@ -1,2 +1,3 @@
-# DD2437_VT22_Labs
+# DD2437 Artificial-Neural-Networks-and-Deep-Architectures
+
 Labs in DD2437
