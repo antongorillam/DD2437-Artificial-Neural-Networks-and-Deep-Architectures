@@ -1,0 +1,58 @@
+(11, 1024)
+(3, 1024)
+(1024, 1024)
+The energy in attractor 1 (p1) is: -1436.390625
+The energy in attractor 2 (p2) is: -1362.640625
+The energy in attractor 3 (p3) is: -1459.25
+---------- p1 -----------------
+start energy  -1436.390625
+iteration  1 , energy:  -1436.390625
+---------- p2 -----------------
+start energy  -1362.640625
+iteration  1 , energy:  -1362.640625
+---------- p3 -----------------
+start energy  -1459.25
+iteration  1 , energy:  -1459.25
+---------- p4 -----------------
+start energy  -717.48046875
+iteration  1 , energy:  -1593.01171875
+iteration  2 , energy:  -1593.01171875
+---------- p5 -----------------
+start energy  -522.890625
+iteration  1 , energy:  -1593.01171875
+iteration  2 , energy:  -1593.01171875
+---------- p6 -----------------
+start energy  -680.296875
+iteration  1 , energy:  -1593.01171875
+iteration  2 , energy:  -1593.01171875
+---------- p7 -----------------
+start energy  -682.73046875
+iteration  1 , energy:  -1593.01171875
+iteration  2 , energy:  -1593.01171875
+---------- p8 -----------------
+start energy  -168.546875
+iteration  1 , energy:  -1593.01171875
+iteration  2 , energy:  -1593.01171875
+---------- p9 -----------------
+start energy  -264.51171875
+iteration  1 , energy:  -1593.01171875
+iteration  2 , energy:  -1593.01171875
+---------- p10 -----------------
+start energy  -412.98046875
+iteration  1 , energy:  -1436.390625
+iteration  2 , energy:  -1436.390625
+---------- p11 -----------------
+start energy  -170.5
+iteration  1 , energy:  -1269.01171875
+iteration  2 , energy:  -1593.01171875
+iteration  3 , energy:  -1593.01171875
+---------- point 4 -----------------
+start energy  -502.74497425797927
+iteration  1 , energy:  -498078.06227627886
+iteration  2 , energy:  -524242.487331846
+iteration  3 , energy:  -524242.487331846
+---------- point 5 -----------------
+start energy  -502.7449742579795
+iteration  1 , energy:  -490025.34930665145
+iteration  2 , energy:  -524242.487331846
+iteration  3 , energy:  -524242.487331846
